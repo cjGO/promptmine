@@ -1,0 +1,4 @@
+setting up json-server
+> create a json file
+>  $json-server --watch ./db.json --port 3001
+
